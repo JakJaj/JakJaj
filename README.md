@@ -36,7 +36,7 @@
    
    <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="80" height="80"/></a>-->
 </p><br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakjaj&show_icons=true&theme=dark&locale=en&layout=compact&lang=40&hide=jupyter notebook, hack" alt="jakjaj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakjaj&show_icons=true&theme=dark&locale=en&layout=compact&lang&hide=jupyter notebook, hack" alt="jakjaj" /></p>
 
 
 
