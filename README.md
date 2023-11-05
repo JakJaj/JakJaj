@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jakub Jajonek</h1>
+<h1 align="left">Hi, I'm Jakub</h1>
 <h3 align="left">I'm an applied IT student from Poland. I'm trying to get better with every line of code that I write.</h3>
 
 <h4>- 🌱 I’m currently learning: <strong>Docker, Kubernetes and Spring</strong></h4>
@@ -29,11 +29,14 @@
 <p>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/></a>
+   <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original.svg" alt="maven" width="80" height="80"/></a>
    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/></a>
    <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Jetbrains/logos/master/web/intellij-idea/intellij-idea.svg" alt="inteliij" width="80" height="80"/></a>
    
    
    <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="80" height="80"/></a>-->
 </p><br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakjaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="jakjaj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakjaj&show_icons=true&theme=dark&locale=en&layout=compact&lang=40&hide=jupyter notebook, hack" alt="jakjaj" /></p>
+
+
 
