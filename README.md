@@ -1,10 +1,15 @@
-<h1 align="left">Hi, I'm Jakub</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=+✌️+Hello,+I'm+Jakub!" /></a>
+</p>
 <h3 align="left">I'm an applied IT student from Poland. I'm trying to get better with every line of code that I write.</h3>
 
 <h4>- 📈 I’m currently learning: <strong>Docker, Kubernetes and Spring</strong></h4>
 
 <h4>- 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></h4>
 
+</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=blueberry&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
+</p>
 
 <h2 align="left">Back End:</h3>
 <p>
@@ -35,8 +40,5 @@
    
    
    <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/></a>-->
-</p><br/>
-</p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
 </p>
 
