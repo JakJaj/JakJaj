@@ -1,11 +1,12 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Bold&weight=500&size=25&pause=1000&color=D59834&center=true&random=false&width=435&lines=Hello%2C+I'm+Jakub+%F0%9F%96%90%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
-<h3 align="left">I'm an applied IT student from Poland. I'm trying to get better with every line of code that I write.</h3>
 
-<h4>- 📈 I’m currently learning: <strong>Docker, Kubernetes and Spring</strong></h4>
+<font size='5'>I'm an applied IT student from Poland. I'm trying to get better with every line of code that I write.</font>
 
-<h4>- 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></h4>
+- <font size='3'> 📈 I’m currently learning: <strong>Docker, Kubernetes and Spring</strong></font>
+
+- <font size='3'> 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></font>
 
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=blueberry&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
