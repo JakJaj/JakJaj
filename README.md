@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=+Hello,+I'm+Jakub✌️" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=+Hello,+I'm+Jakub:v:" /></a>
 </p>
 <h3 align="left">I'm an applied IT student from Poland. I'm trying to get better with every line of code that I write.</h3>
 
