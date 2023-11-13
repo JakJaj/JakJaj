@@ -9,7 +9,7 @@
 - <font size='5'> 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></font>
 
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=blueberry&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=vision-friendly-dark&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
 </p>
 
 <h2 align="left">Back End:</h3>
