@@ -4,7 +4,7 @@
 
 <font size='7'>I'm an applied IT student from Poland. I'm trying to get better with every line of code that I write.</font>
 
-- <font size='5'> 📈 I’m currently learning: <strong>Docker, Kubernetes and Spring</strong></font>
+- <font size='5'> 📈 I’m currently learning: <strong>Docker, Swift and Spring</strong></font>
 
 - <font size='5'> 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></font>
 
