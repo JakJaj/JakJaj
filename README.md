@@ -34,7 +34,9 @@
 <h2 align= "left">Tools:</h3>
 <p>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/></a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
+   <!-- 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a> 
+    -->
    <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original.svg" alt="maven" width="60" height="60"/></a>
    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/></a>
    <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Jetbrains/logos/master/web/intellij-idea/intellij-idea.svg" alt="inteliij" width="60" height="60"/></a>
