@@ -4,11 +4,11 @@
 
 <font size='7'>I'm an applied computer science student from Poland. I'm trying to get better with every line of code that I write.</font>
 
-- <font size='5'> 📈 I’m currently learning: <strong>Docker, Swift and Spring</strong></font>
+- <font size='5'> 📈 I’m currently learning: <strong>Spring/Spring Boot Testing, Kotlin, JavaScript, Unity</strong></font>
 
 - <font size='5'> 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></font>
 
-- <font size='5'> 💻 My website: <a href="https://jakjaj.github.io/personal-site"><strong>Link</strong></a></font>
+- <font size='5'> 💻 My website (work in progress): <a href="https://jakjaj.github.io/personal-site"><strong>Link</strong></a></font>
 </p>
 
 <p>
