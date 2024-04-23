@@ -57,6 +57,7 @@
    <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Jetbrains/logos/master/web/intellij-idea/intellij-idea.svg" alt="inteliij" width="60" height="60"/></a>
    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="60" height="60"/></a>
    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="60" height="60"/></a>
+   <a href="https://neovim.io/" targer="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/neovim/neovim-original.svg" alt="neovim" width="60" height="60"/></a>
    <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original.svg" alt="maven" width="60" height="60"/></a>
    <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/></a>-->
 </p>
