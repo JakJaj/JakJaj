@@ -13,6 +13,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=vision-friendly-dark&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
 </p>
 
+<h2>Tech that I came in contact with:</h2>
+
 <h2 align="left">Back End:</h3>
 <p>
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>  
