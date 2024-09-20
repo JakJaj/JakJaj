@@ -4,7 +4,7 @@
 
 <font size='7'>I'm an applied computer science student from Poland. I'm trying to get better with every line of code that I write.</font>
 
-- <font size='5'> 📈 I’m currently learning: <strong>Spring/Spring Boot, React, Docker </strong></font>
+- <font size='5'> 📈 I’m currently learning: <strong>Spring/Spring Boot, Kafka, AWS, Jenkins, Docker </strong></font>
 
 - <font size='5'> 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></font>
 </p>
@@ -52,8 +52,10 @@
 <h2 align= "left">Tools:</h3>
 <p>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/></a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a> 
+   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="60" height="60"/></a> 
    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="60" height="60"></a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a> 
+   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/playwright/playwright-original.svg" alt="playwright" width="60" height="60"></a> 
    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/></a>
    <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Jetbrains/logos/master/web/intellij-idea/intellij-idea.svg" alt="inteliij" width="60" height="60"/></a>
    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="60" height="60"/></a>
