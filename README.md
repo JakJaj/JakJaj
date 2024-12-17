@@ -1,3 +1,5 @@
+
+
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Bold&weight=500&size=25&pause=1000&color=D59834&center=true&random=false&width=435&lines=Hello%2C+I'm+Jakub+%F0%9F%96%90%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
@@ -12,6 +14,15 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=vision-friendly-dark&username=jakjaj&hide=jupyter%20notebook,hack&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io">
 </p>
+
+
+<a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/JakJaj?pet-id=656991906409609990"
+      width="600"
+      height="120"
+    />
+  </a>  
 
 <h2>Tech that I came in contact with:</h2>
 
@@ -64,3 +75,4 @@
    <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/maven/maven-original.svg" alt="maven" width="60" height="60"/></a>
    <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/></a>-->
 </p>
+
