@@ -1,12 +1,10 @@
-
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Bold&weight=500&size=25&pause=1000&color=D59834&center=true&random=false&width=435&lines=Hello%2C+I'm+Jakub+%F0%9F%96%90%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
-<font size='7'>I'm an applied computer science student from Poland. I'm trying to get better with every line of code that I write.</font>
+<font size='7'>I'm an programmer from Poland with BSc of Applied Computer Science. I'm trying to get better with every line of code that I write.</font>
 
-- <font size='5'> 📈 I’m currently learning: <strong>Spring/Spring Boot, Kafka, AWS, Jenkins, Docker </strong></font>
+- <font size='5'> 📈 I’m currently learning: <strong>Spring/Spring Boot, AWS </strong></font>
 
 - <font size='5'> 📬 Best way to reach me: <strong>jakub.jajonek@gmail.com</strong></font>
 </p>
@@ -43,14 +41,17 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="60" height="60"/></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original.svg" alt="jquery" width="60" height="60"/></a>
+    <a href="https://www.gwtproject.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353848/gwt.svg" alt="gwt" width="60" height="60"/></a>
 </p>
 
 <h2 align= "left">Database:</h3>
 <p>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/></a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/redis/redis-original.svg" alt="redis" width="60" height="60"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="60" height="60"/></a>
+    
 </p>
 
 <h2 align="left">Frameworks:</h2>
@@ -63,8 +64,10 @@
 <h2 align= "left">Tools:</h3>
 <p>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/></a>
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a> 
    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="60" height="60"/></a> 
+   <a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/subversion/subversion-original.svg" alt="svn" width="60" height="60"/></a>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="60" height="60"></a> 
    <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/playwright/playwright-original.svg" alt="playwright" width="60" height="60"></a> 
    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/></a>
